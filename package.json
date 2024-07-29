@@ -1,0 +1,11 @@
+{
+  "name": "silentjs",
+  "version": "1.0.0",
+  "description": "Silent.js is an Express.js inspired backend web application framework for Node.js.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Manish Singh Bisht",
+  "license": "ISC"
+}
